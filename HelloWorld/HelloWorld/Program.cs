@@ -21,7 +21,7 @@ namespace HelloWorld
             // It will take awhile to get use to it, and then you'll use it quite often
             // To read our code on the console, we must add this string
             Console.ReadLine();
-            // At the end of your string, you must remeber the semi-colon
+            // At the end of your string, you must remember the semi-colon
             // If you forget, it will return an error
             // Click "Start" or Crtl + F5 to start the console to view what we have written
             // To close the console, just click the cross (close) tab, top right corner of the console window
